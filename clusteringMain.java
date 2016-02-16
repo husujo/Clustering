@@ -47,7 +47,7 @@ public class clusteringMain {
 				i++;
 			}
 		} catch(Exception e) {
-			System.out.println("fuck you");
+			System.out.println("exception");
 		}
 	}
 	
