@@ -1,0 +1,2 @@
+javac clusteringMain.java
+java clusteringMain
